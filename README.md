@@ -19,8 +19,8 @@ This is my solution to the [Blog preview card challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [My solution on Frontend Mentor]([https://www.frontendmentor.io/solutions/your-solution-slug](https://www.frontendmentor.io/solutions/responsive-blog-preview-card-with-html-and-css-m1feVV8Ntk)
-- Live Site URL: [Live preview]([https://your-live-site-url.com](https://blog-preview-card-beta-kohl.vercel.app)
+- Solution URL: [My solution on Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-blog-preview-card-with-html-and-css-m1feVV8Ntk)
+- Live Site URL: [Live preview](https://blog-preview-card-beta-kohl.vercel.app)
 
 ## My process
 
