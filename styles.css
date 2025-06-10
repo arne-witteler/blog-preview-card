@@ -104,10 +104,10 @@ p {
 
 @media (min-width: 768px) {
   .white-box {
-    max-width: 340px; /* statt 400px */
+    max-width: 340px;
   }
 
   h1 {
-    font-size: 1.25rem; /* statt 1.5rem */
+    font-size: 1.25rem;
   }
 }
